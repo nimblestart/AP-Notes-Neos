@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "db2b2f02c3a9415e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc5a5967fdf3410f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87aedfd7b251d6c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1fa1555c7e1e197f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d6351d510d0c455",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0b5c1d415dd3696",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f309498a61e7094c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "131b5cb02e43b09c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d643f29f567acf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f33d6f9b47f99ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9ee18f6f7c91eff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "ed891befaf2ad23f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "6ced52e42a5b1d72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "614f6ab3b2174d14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "87aedfd7b251d6c8",
+  "lastOpenFiles": [
+    "AP Physics 1/AP Physics 1.md",
+    "AP Physics 1/Appendix.md",
+    "AP Physics 1/Unit 8 - Fluids.md",
+    "AP Physics 1/Unit 7 - Oscillations.md",
+    "AP Physics 1/Unit 6 - Energy and momentum of rotating systems.md",
+    "AP Physics 1/Unit 5 - Torque and rotational dynamics.md",
+    "AP Physics 1/Unit 4 - Linear momentum.md",
+    "AP Physics 1/Unit 3 - Work, energy, and, power.md",
+    "AP Physics 1/Unit 2 - Force and translational dynamics.md",
+    "AP Physics 1/Unit 1 - Kinematics.md",
+    "pdfs/AP Physics 1.pdf",
+    "pdfs",
+    "New folder"
+  ]
+}
