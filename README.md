@@ -7,7 +7,6 @@ A structured collection of notes for AP subjects.  These are mostly generated us
 1. Click a subject above to view its units.  
 2. Use `Ctrl + F` to search keywords in files.  
 3. You can also download the [PDF Notes](pdfs/)
-
 ## Contributing guidelines
 - *Contribution guidelines are in [CONTRIBUTING.md](CONTRIBUTING.md).*
 
