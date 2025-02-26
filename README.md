@@ -1,4 +1,4 @@
-# 📚 AP Notes Repository  
+# 📝 AP Notes Repository  
 A structured collection of notes for AP subjects.  These are mostly generated using LLMs (ChatGPT, DeepSeek) by prompting to generate notes in markdown format using Khan Academy as reference. The generated markdowns require clean-up and are also reviewed for completeness and accuracy.
 
 ## Subjects  
