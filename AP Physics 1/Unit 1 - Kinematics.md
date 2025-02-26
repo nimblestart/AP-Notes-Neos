@@ -1,8 +1,8 @@
 Kinematics is the study of motion without considering the forces that cause it. It focuses on describing motion using quantities like displacement, velocity, and acceleration.
 #### 1.1 Scalars and Vectors
-- <u>Scalar</u>: A quantity with magnitude only (e.g., speed, distance, mass).
-- <u>Vector</u>: A quantity with both magnitude and direction (e.g., velocity, displacement, acceleration, force).
-- <u>Component Vectors</u>: If a vector is at an angle use trigonometric functions to get the x and y components. Remember to use the correct angle and appropriate Trig function. e.g. $\sin(\theta) = \frac{O}{H} \quad \Rightarrow \quad A_x = A \sin(\theta)$. 
+- <u>Scalar</u>: A quantity with magnitude only (e.g., speed, distance, mass, volume, temperature, energy).
+- <u>Vector</u>: A quantity with both magnitude and direction (e.g., velocity $\vec{v}$, displacement $\Delta \vec{x}$, acceleration  $\vec{a}$).
+- <u>Component Vectors</u>: If a vector is at an angle use trigonometric functions to get the x and y components. Remember to use the correct angle and appropriate Trig function.<img src="assets/vector-components.png" alt="logo" height="150"/>
 #### 1.2 Distance, and Speed
 - <u>Distance</u>: Distance is how far something moves and it includes the path travelled.
 - <u>Speed</u>: $\frac{distance}{time}$
@@ -48,3 +48,7 @@ Projectile motion is the motion of an object launched into the air, subject only
 #### 1.8 Relative Motion
 - The motion of an object as observed from a different frame of reference
 - Relative velocity: $\vec{v}_{\text{A relative to B}} = \vec{v}_{\text{A}} - \vec{v}_{\text{B}}$
+#### Problem-solving tips
+- Be careful to not add vectors that represent different types of quantities. This seems obvious when talking about scalar quantities like temperature and volume. For example, you can't add \[25\degree\text{C}\] to \[2\,\text{L}.\] Similarly, you can't add a displacement vector of \[25\,\text{m}\] to a velocity vector of \[-2\,\text{m/s}.\] The result would be meaningless. As always in science, paying careful attention to units can help avoid mistakes.
+    - Remember to clearly define your coordinate system before doing any calculations with vectors. It's easy to forget that you're working with vectors, especially since positive vector values "look like" scalars with no sign. But direction and sign are very important with vectors, even if the direction is an implied "\[+\]."
+- - **Confusion about choosing the “correct” coordinate system.** All coordinate systems are equally valid, so we can choose any system. The choice will affect the numbers in the calculation, but as long as we use the coordinate system consistently, the physical meaning of the answer won't change.
