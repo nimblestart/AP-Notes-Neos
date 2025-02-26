@@ -57,4 +57,3 @@
   If $\lim_{x \to a} \frac{f(x)}{g(x)}$ is $\frac{0}{0}$ or $\frac{\infty}{\infty}$, then:
   $\lim_{x \to a} \frac{f(x)}{g(x)} = \lim_{x \to a} \frac{f'(x)}{g'(x)}$
 - **Intermediate Value Theorem**: If $f(x)$ is continuous on $[a, b]$ and $k$ is between $f(a)$ and $f(b)$, then there exists $c \in (a, b)$ such that $f(c) = k$.
--$\bigcirc \cap$
