@@ -3,7 +3,7 @@ A structured collection of notes for AP subjects.  These are mostly generated us
 
 ## Subjects  
 - [AP Calculus AB](ap-calculus-ab/README.md)
-- [AP Physics 1](ap-physics-1/README.md)
+- [AP Physics 1]('ap-physics-1/AP Physics 1.md')
 
 ## How to Use
 1. Click a subject above to view its units.  
@@ -23,4 +23,5 @@ A structured collection of notes for AP subjects.  These are mostly generated us
 	    <div>
 	        <span class="pageNumber"></span> / <span class="totalPages"></span>
 	    </div>
-	</div>```
+	</div>
+ 	```
