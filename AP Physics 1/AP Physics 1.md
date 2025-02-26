@@ -1,7 +1,6 @@
 ---
 toc: true
 ---
-##### *∩imblestart, (Feb, 2025)*
 ## Table of Contents
 [[Unit 1 - Kinematics]]
 [[Unit 2 - Force and translational dynamics]]
