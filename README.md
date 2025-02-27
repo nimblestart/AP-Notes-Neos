@@ -7,15 +7,38 @@ A structured collection of notes for AP subjects.  These are mostly generated us
 
 ## How to Use
 1. Click a subject above to view its units.  
-2. Use `Ctrl + F` to search keywords in files.  
-3. You can also download the [PDF Notes](pdfs/)
+2. You can also download the [PDF Notes](pdfs/)
 ## Contributing guidelines
 - *Contribution guidelines are in [CONTRIBUTING.md](CONTRIBUTING.md).*
 
-## Obsidian
+## Editing workflow
 - Use [Obsidian](https://obsidian.md/download) to edit the markdown files
+- Organize subjects into a single folder with files for each chapters (refer AP Physics 1 as the model)
+- Add CSS Snippets to Obsidian
+	- Image alignment
+	``` CSS
+		img[alt*="center"] {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		img[alt*="right"] {
+			float:right;
+			clear:right;
+			margin-left: 1rem;
+			margin-bottom: 2px;
+			margin-top: 2px;
+		}	
+	```
+	- Math equation sizes
+	``` CSS
+		.math {
+			font-size: 1.2em;
+		}
+	```
 - Use [Better PDF Export Plugin](https://github.com/l1xnan/obsidian-better-export-pdf) to export the notes to PDFs
-- Use the below footer settings
+- Use the below footer settings (includes, logo, title, page numbers)
 	```html
 		<div style="width: 100vw; font-size: 10px; display: flex; justify-content: space-between; align-items: center; margin-left: 20px; margin-right: 20px;">
 			<div>

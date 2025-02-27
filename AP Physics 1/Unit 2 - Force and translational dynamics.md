@@ -28,10 +28,9 @@ Dynamics is the study of forces and how they affect the motion of objects. It bu
   4. Break forces into components if necessary (e.g., on an incline).
 #### 2.4 Inclined Planes
 Forces on an object on an inclined plane can be broken into components parallel and perpendicular to the surface.
-<img src="assets/forces_on_inclines.svg" alt="logo" height="150"/>
 - <u>Parallel to Incline</u>: The component of gravity acting down the incline. $F_{g, \parallel} = mg \sin \theta$
 - <u>Perpendicular to Incline</u>: The component of gravity acting perpendicular to the incline. $F_{g, \perp} = mg \cos \theta$
-
+![[assets/forces_on_inclines.svg | center | 150]]
 #### Circular Orbits
 #### 2.7 Translational Equilibrium
 - An object is in translational equilibrium when the net force acting on it is zero.
@@ -44,15 +43,15 @@ Forces on an object on an inclined plane can be broken into components parallel 
 - When locating the center of mass for a system, start by looking for any lines of symmetry. If you identify one or more lines of symmetry for the system, you know the center of mass must lie somewhere along that line.
 - A system remaining at rest is not accelerating. A system moving with constant velocity is also not accelerating. A system in either of these states of motion must be experiencing zero net force. (You may also see such scenarios described as being in **translational equilibrium**.)
 - A system's acceleration points in the same direction as the net force acting on the system. However, the system's acceleration and velocity may not point in the same direction.
-- A system may have zero \[\Sigma \vec{F}\] and \[\vec{a}\] in one dimension, but nonzero \[\Sigma \vec{F}\] and \[\vec{a}\] in another dimension. The system only accelerates in the direction of the net force.
-- There may be cases when a system experiences forces directed at various angles. In those cases, trigonometry may be needed to resolve the force vectors into perpendicular components so \[\Sigma \vec{F}_x\] and \[\Sigma \vec{F}_y\] can be determined.
+- A system may have zero $[\Sigma \vec{F}] and [\vec{a}]$ in one dimension, but nonzero $[\Sigma \vec{F}] and [\vec{a}]$ in another dimension. The system only accelerates in the direction of the net force.
+- There may be cases when a system experiences forces directed at various angles. In those cases, trigonometry may be needed to resolve the force vectors into perpendicular components so $[\Sigma \vec{F}_x] and [\Sigma \vec{F}_y]$ can be determined.
 ##### Inclines
-- For an incline that makes an angle $[\theta]$ with the horizontal, \[\boxed{F_{g\,\parallel}=mg\sin\theta}\] and \[\boxed{F_{g\,\perp}=mg\cos\theta}.\] Though you can re-derive this result using diagrams and trigonometry, it's helpful to remember offhand. Considering the limiting cases of \[0^\circ\] and \[90^\circ\] can help you confirm which is which.
+- For an incline that makes an angle $[\theta]$ with the horizontal, $[\boxed{F_{g\,\parallel}=mg\sin\theta}]$ and $[\boxed{F_{g\,\perp}=mg\cos\theta}.]$ Though you can re-derive this result using diagrams and trigonometry, it's helpful to remember offhand. Considering the limiting cases of $[0^\circ] and [90^\circ]$ can help you confirm which is which.
 - An object on an incline does not accelerate perpendicular to the incline's surface (unless the surface is breaking or stretching). So, the forces perpendicular to the surface must be balanced.
-- For an object at rest or sliding down an incline, the force of friction \[\vec{F}_f\] points up the incline, parallel to the surface. (If the object was sliding up the incline, \[\vec{F}_f\] would point down the incline, parallel to the surface.)
+- For an object at rest or sliding down an incline, the force of friction $[\vec{F}_f]$ points up the incline, parallel to the surface. (If the object was sliding up the incline, $[\vec{F}_f]$ would point down the incline, parallel to the surface.)
 - The analysis above was for an object undergoing **translational motion** only. The entire block was moving together in the same way (i.e., no part of the block was moving differently than any other part of the block). Therefore, we could treat the block as a point object located at the block's center of mass. However, if we were analyzing something that could _rotate_ while moving down the incline (e.g., a disk or a ball), we'd need to consider additional factors when analyzing its motion.
 ##### Circular Motion
-- The term "centripetal force" is sometimes used to refer to the net force in the radial direction, \[\Sigma\vec{F}_\text{rad},\] acting on an object following a circular path.
-- Similarly, centripetal acceleration refers to the acceleration _in the radial direction_ of an object following a circular path. Centripetal acceleration can be related to the net force in the radial dimension by applying Newton's second law to the radial dimension, \[a_c=\dfrac{\left|\Sigma\vec{F}_\text{rad}\right|}{m}.\] The magnitude of centripetal acceleration is also \[a_c=\dfrac{v^2}{r}.\] These expressions for \[a_c\] often need to be equated when analyzing circular motion scenarios.
+- The term "centripetal force" is sometimes used to refer to the net force in the radial direction, $[\Sigma\vec{F}_\text{rad},]$ acting on an object following a circular path.
+- Similarly, centripetal acceleration refers to the acceleration _in the radial direction_ of an object following a circular path. Centripetal acceleration can be related to the net force in the radial dimension by applying Newton's second law to the radial dimension, $[a_c=\dfrac{\left|\Sigma\vec{F}_\text{rad}\right|}{m}.]$ The magnitude of centripetal acceleration is also $[a_c=\dfrac{v^2}{r}.]$ These expressions for $[a_c]$ often need to be equated when analyzing circular motion scenarios.
 - The analysis above also applies to objects that only traverse _part_ of a circular path. For example, if a car rounds a circular curve, it's in circular motion while making the turn. This is true even if the car does not complete a full circle.
 - An object in circular motion will move at constant speed if it experiences zero tangential force. However, if the object experiences a nonzero tangential force, it will change speed as well as direction.
